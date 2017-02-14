@@ -101,6 +101,7 @@ export default class ReactNativeImageSenderExample extends Component {
 ```
 
 ## Server example
+[Express](https://github.com/expressjs/express) and [formidable](https://github.com/felixge/node-formidable) are used for the server to get a photo.
 ```javascript
 'use strict';
 
