@@ -1,10 +1,10 @@
 # React Native Image Sender Example
 An example of how to transfer the image to the server using [React Native](https://facebook.github.io/react-native/) and [React Native Image Picker](https://github.com/marcshilling/react-native-image-picker).
 
-* [Image Sender Example](#image-server-example)
+* [Image Sender Example](#image-sender-example)
 * [Server example](#server-example)
 
-## Image Server Example
+## Image Sender Example
 ```javascript
 var ImagePicker = require('react-native-image-picker');
 var options = {
